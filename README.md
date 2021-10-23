@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=21_CPP%Study&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Hongik.Univ%GameSofteare%Major%Study&descAlignY=58&descAlign=64)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=21_CPP%Study&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Hongik.Univ%GameSoftware%Major%Study&descAlignY=58&descAlign=64)
 
 
 
