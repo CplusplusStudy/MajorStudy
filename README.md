@@ -1,19 +1,19 @@
-# 21_CPP Study
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=21_CPP%Study&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Hongik.Univ%GameSofteare%Major%Study&descAlignY=58&descAlign=64)
 
-✨ 21-2 객체지향프로그래밍(2)를 수강하는 학부생들의 학술회 레포지토리.
+
 
 
 
 ## 📆 스터디 소개
 
-📌 2021년도 게임학부 전공학술회
+📌 2021년도 게임학부 C++ 전공학술회
 
 📌 매주 토요일
 
 > 오후 12시 ~ 1시 `webex`
 
       1. 매주 지정된 발표자가 학술회를 진행한다.
-         2. 해당 주제에 관련해 질의응답 및 토의/연구를 한다.
+      2. 해당 주제에 관련해 질의응답 및 토의/연구를 한다.
 
 
 
