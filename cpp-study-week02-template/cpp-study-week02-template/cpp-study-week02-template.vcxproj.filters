@@ -13,19 +13,63 @@
       <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
       <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
     </Filter>
+    <Filter Include="소스 파일\01.Function Template">
+      <UniqueIdentifier>{ada9424b-d888-4cc0-84e6-24964496adb6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Class Template">
+      <UniqueIdentifier>{dc0c5a85-d03a-4b31-9f92-fab3bc0bf794}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\02.Class Template">
+      <UniqueIdentifier>{fa70a25f-c40d-4060-935b-77b348165f76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Class Template\02.ExampleFileDivision">
+      <UniqueIdentifier>{d28e5f90-8c66-46bf-81ce-dee3e9bb6258}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Class Template\04.SinglrtonTemplate">
+      <UniqueIdentifier>{b81bbaf3-a3b7-4660-acae-4fec59c8aac6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="헤더 파일\04.SingletonTemplate">
+      <UniqueIdentifier>{2c2aa41c-c872-43f1-bbbe-0b53e6841175}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\02.Class Template\03.ArrayTemplate">
+      <UniqueIdentifier>{9b0eff18-3d19-4177-888f-70cf8f9c0b58}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AddFunctionTemplate.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="TwoTypeAddFunction.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="PrimitiveFunctionTemplate.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\01.Function Template</Filter>
     </ClCompile>
     <ClCompile Include="NeedSpecialFuntionTemplate.cpp">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\01.Function Template</Filter>
     </ClCompile>
+    <ClCompile Include="PrimitiveFunctionTemplate.cpp">
+      <Filter>소스 파일\01.Function Template</Filter>
+    </ClCompile>
+    <ClCompile Include="TwoTypeAddFunction.cpp">
+      <Filter>소스 파일\01.Function Template</Filter>
+    </ClCompile>
+    <ClCompile Include="01.PositionClassTemplate.cpp">
+      <Filter>소스 파일\02.Class Template</Filter>
+    </ClCompile>
+    <ClCompile Include="PositionMain.cpp">
+      <Filter>소스 파일\02.Class Template\02.ExampleFileDivision</Filter>
+    </ClCompile>
+    <ClCompile Include="PositionTemplate.cpp">
+      <Filter>소스 파일\02.Class Template\02.ExampleFileDivision</Filter>
+    </ClCompile>
+    <ClCompile Include="Singleton.cpp">
+      <Filter>소스 파일\02.Class Template\04.SinglrtonTemplate</Filter>
+    </ClCompile>
+    <ClCompile Include="Stack.cpp">
+      <Filter>소스 파일\02.Class Template\03.ArrayTemplate</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PositionTemplate.h">
+      <Filter>헤더 파일\02.Class Template</Filter>
+    </ClInclude>
+    <ClInclude Include="Singleton.h">
+      <Filter>헤더 파일\04.SingletonTemplate</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
