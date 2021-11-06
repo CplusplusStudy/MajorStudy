@@ -22,7 +22,7 @@
 | 주차   | 날짜     | 주제                                               | 발표자 | Branch                                                       |
 | ------ | -------- | -------------------------------------------------- | ------ | ------------------------------------------------------------ |
 | week01 | 21.10.23 | 싱글톤 캐스팅 상속                                 | 찬웅   | ✅[바로가기](https://github.com/CplusplusStudy/MajorStudy/tree/Week1) |
-| week02 | 21.10.30 | 상속 템플릿                                        | 예람   |   
+| week02 | 21.10.30 | 상속 템플릿                                        | 예람   | ✅[바로가기](https://github.com/CplusplusStudy/MajorStudy/tree/Week2) 
 | week03 | 21.11.06 | 추상클래스                                         | 병진   | ✅[바로가기](https://github.com/CplusplusStudy/MajorStudy/tree/Week3)                                                     |                                                             |
 | week04 | 21.11.13 | 유니티 컴포넌트 설계방법론 소개                    | 채원   |                                                              |
 | week05 | 21.11.20 | 유니티 GameObject 클래스의 내부 구조 연구          | 병진   |                                                              |
