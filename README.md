@@ -28,7 +28,7 @@
 | week05 | 21.11.20 | 유니티 GameObject 클래스의 내부 구조 연구          | 병진   | ✅[바로가기](https://github.com/CplusplusStudy/MajorStudy/tree/Week5)                         |
 | week06 | 21.11.27 | 유니티 MonoBehavior를 통한 Component 연결구조 연구 | 예람   | ✅[바로가기](https://github.com/CplusplusStudy/MajorStudy/tree/Week6)                                                             |
 | week07 | 21.12.04 | stl string 클래스 직접 구현하기                    | 찬웅   |                                                              |
-| week08 | 21.12.11 | STL map. deque                                     | 예람   |                                                              |
+| week08 | 21.12.11 | STL map. deque / 람다함수                         | 예람   |                                                              |
 | week09 | 21.12.18 | RAII(Resource Acquisition Is Initialization)       | 찬웅   |                                                              |
 
 
