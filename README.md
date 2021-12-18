@@ -28,7 +28,7 @@
 | week06 | 21.11.27 | 유니티 MonoBehavior를 통한 Component 연결구조 연구 | 예람   | ✅[바로가기](https://github.com/CplusplusStudy/MajorStudy/tree/Week6)|
 | week07 | 21.12.04 | stl string 클래스 직접 구현하기                    | 찬웅   | ✅[바로가기](https://github.com/CplusplusStudy/MajorStudy/tree/Week7)                                                             |
 | week08 | 21.12.11 | STL map. deque / 람다함수                         | 예람   | ✅[바로가기](https://github.com/CplusplusStudy/MajorStudy/tree/Week8)|
-| week09 | 21.12.18 | RAII(Resource Acquisition Is Initialization)       | 찬웅   |                                                              |
+| week09 | 21.12.18 | RAII(Resource Acquisition Is Initialization)       | 찬웅   |✅[바로가기](https://github.com/CplusplusStudy/MajorStudy/tree/Week9)|
 
 
 
